@@ -9,5 +9,4 @@ Program which uses a 4 digit 7 segments display and a joystick.Each digit can be
 
 **LCD_Menu**
 A menu which you can scroll through using a joystick.You can either Start the game,select the level in the settings or view the highscore.
-
 [Video](https://drive.google.com/file/d/1F1OlYhvx90mrut-sIPqMtfudCj68cjOV/view?usp=sharing)
